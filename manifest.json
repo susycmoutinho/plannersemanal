@@ -1,0 +1,24 @@
+{
+  "name": "Planeador Semanal",
+  "short_name": "Planeador",
+  "description": "Organiza a tua vida por áreas e alcança o equilíbrio",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0e27",
+  "theme_color": "#ff6b9d",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
